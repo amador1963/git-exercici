@@ -1,1 +1,3 @@
 prueba.txt
+Se modifica el fichero.
+Se añaden 2 líneas.
