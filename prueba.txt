@@ -1,1 +1,3 @@
 prueba.txt
+Canvi des de master.
+Després de branch1.
