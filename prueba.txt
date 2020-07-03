@@ -1,3 +1,4 @@
 prueba.txt
-Canvi des de master.
-Després de branch1.
+Canvi des de master després de branch1.
+Se modifica el fichero y se añaden 2 líneas.
+
